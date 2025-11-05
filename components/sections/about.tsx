@@ -61,7 +61,7 @@ export function AboutSection() {
               className="relative aspect-square rounded-2xl overflow-hidden"
             >
               <Image
-                src="https://www.geekygallery.in/cdn/shop/files/sololeveling_2.jpg?v=1710181156&width=990"
+                src="my_image.png"
                 alt="Profile"
                 fill
                 className="object-cover"
