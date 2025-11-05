@@ -1,0 +1,230 @@
+[00:00:01.012] Server  LOG      ✓ Ready in 623ms
+[00:00:04.088] Server  LOG      ○ Compiling / ...
+[00:00:05.849] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.017] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.417] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"","time":"04/11/2025, 23:55:34"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:00:06.417] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"","time":"04/11/2025, 23:55:34"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:00:06.925] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"","time":"04/11/2025, 23:55:35"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:00:06.925] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"","time":"04/11/2025, 23:55:35"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:00:06.925] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"","time":"04/11/2025, 23:55:35"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:00:06.926] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"","time":"04/11/2025, 23:55:35"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:00:07.919] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"","time":"04/11/2025, 23:55:35"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:00:07.919] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"","time":"04/11/2025, 23:55:35"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:00:41.383] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
+This will cause a hydration error.%s <p> p 
+
+  ...
+    <Presence present={true}>
+      <FocusScope asChild={true} loop={true} trapped={true} onMountAutoFocus={undefined} ...>
+        <Primitive.div tabIndex={-1} asChild={true} ref={function} ...>
+          <Slot tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+            <SlotClone tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+              <DismissableLayer role="dialog" id="radix-_r_16_" aria-describedby="radix-_r_18_" ...>
+                <Primitive.div role="dialog" id="radix-_r_16_" aria-describedby="radix-_r_18_" ...>
+                  <div role="dialog" id="radix-_r_16_" aria-describedby="radix-_r_18_" aria-labelledby="radix-_r_17_" ...>
+                    <DialogHeader>
+                      <div className="flex flex-...">
+                        <_c5>
+                        <_c7>
+                          <DialogDescription ref={null} className="text-sm te...">
+                            <Primitive.p id="radix-_r_18_" className="text-sm te..." ref={null}>
+>                             <p id="radix-_r_18_" className="text-sm text-muted-foreground" ref={null}>
+                                <img>
+>                               <p className="mb-4">
+                                ...
+                    ...
+      ...
+
+[00:00:41.383] Browser ERROR   <%s> cannot contain a nested %s.
+See this log for the ancestor stack trace. p <p>
+[00:00:41.383] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
+This will cause a hydration error.%s <h4> p 
+
+  ...
+    <Presence present={true}>
+      <FocusScope asChild={true} loop={true} trapped={true} onMountAutoFocus={undefined} ...>
+        <Primitive.div tabIndex={-1} asChild={true} ref={function} ...>
+          <Slot tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+            <SlotClone tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+              <DismissableLayer role="dialog" id="radix-_r_16_" aria-describedby="radix-_r_18_" ...>
+                <Primitive.div role="dialog" id="radix-_r_16_" aria-describedby="radix-_r_18_" ...>
+                  <div role="dialog" id="radix-_r_16_" aria-describedby="radix-_r_18_" aria-labelledby="radix-_r_17_" ...>
+                    <DialogHeader>
+                      <div className="flex flex-...">
+                        <_c5>
+                        <_c7>
+                          <DialogDescription ref={null} className="text-sm te...">
+                            <Primitive.p id="radix-_r_18_" className="text-sm te..." ref={null}>
+>                             <p id="radix-_r_18_" className="text-sm text-muted-foreground" ref={null}>
+                                <img>
+                                <p>
+>                               <h4 className="font-semibold mb-2">
+                                ...
+                    ...
+      ...
+
+[00:00:41.383] Browser ERROR   <%s> cannot contain a nested %s.
+See this log for the ancestor stack trace. p <h4>
+[00:00:41.383] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
+This will cause a hydration error.%s <div> p 
+
+  ...
+    <Presence present={true}>
+      <FocusScope asChild={true} loop={true} trapped={true} onMountAutoFocus={undefined} ...>
+        <Primitive.div tabIndex={-1} asChild={true} ref={function} ...>
+          <Slot tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+            <SlotClone tabIndex={-1} onKeyDown={function FocusScope.useCallback[handleKeyDown]} ref={function}>
+              <DismissableLayer role="dialog" id="radix-_r_16_" aria-describedby="radix-_r_18_" ...>
+                <Primitive.div role="dialog" id="radix-_r_16_" aria-describedby="radix-_r_18_" ...>
+                  <div role="dialog" id="radix-_r_16_" aria-describedby="radix-_r_18_" aria-labelledby="radix-_r_17_" ...>
+                    <DialogHeader>
+                      <div className="flex flex-...">
+                        <_c5>
+                        <_c7>
+                          <DialogDescription ref={null} className="text-sm te...">
+                            <Primitive.p id="radix-_r_18_" className="text-sm te..." ref={null}>
+>                             <p id="radix-_r_18_" className="text-sm text-muted-foreground" ref={null}>
+                                <img>
+                                <p>
+                                <h4>
+>                               <div className="flex flex-wrap gap-2 mb-4">
+                                ...
+                    ...
+      ...
+
+[00:00:41.383] Browser ERROR   <%s> cannot contain a nested %s.
+See this log for the ancestor stack trace. p <div>
+[00:01:20.613] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"S","time":"04/11/2025, 23:56:49"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:20.613] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"S","time":"04/11/2025, 23:56:49"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:20.829] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Sa","time":"04/11/2025, 23:56:49"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:20.829] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Sa","time":"04/11/2025, 23:56:49"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:20.829] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Sat","time":"04/11/2025, 23:56:49"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:20.829] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Sat","time":"04/11/2025, 23:56:49"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:21.146] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satv","time":"04/11/2025, 23:56:49"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:21.146] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satv","time":"04/11/2025, 23:56:49"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:21.302] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvi","time":"04/11/2025, 23:56:49"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:21.302] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvi","time":"04/11/2025, 23:56:49"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:21.462] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik","time":"04/11/2025, 23:56:49"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:21.462] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik","time":"04/11/2025, 23:56:49"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:21.646] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik ","time":"04/11/2025, 23:56:50"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:21.646] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik ","time":"04/11/2025, 23:56:50"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:21.846] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik","time":"04/11/2025, 23:56:50"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:21.846] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik","time":"04/11/2025, 23:56:50"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:22.063] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik ","time":"04/11/2025, 23:56:50"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:22.063] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik ","time":"04/11/2025, 23:56:50"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:22.566] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik J","time":"04/11/2025, 23:56:50"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:22.566] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik J","time":"04/11/2025, 23:56:50"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:22.566] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JA","time":"04/11/2025, 23:56:50"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:22.566] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JA","time":"04/11/2025, 23:56:50"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:22.566] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JAi","time":"04/11/2025, 23:56:51"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:22.566] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JAi","time":"04/11/2025, 23:56:51"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:22.754] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JAin","time":"04/11/2025, 23:56:51"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:22.754] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JAin","time":"04/11/2025, 23:56:51"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:22.909] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JAin ","time":"04/11/2025, 23:56:51"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:22.909] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JAin ","time":"04/11/2025, 23:56:51"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:23.112] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JAin","time":"04/11/2025, 23:56:51"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:23.112] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JAin","time":"04/11/2025, 23:56:51"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:23.279] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JAi","time":"04/11/2025, 23:56:51"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:23.279] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JAi","time":"04/11/2025, 23:56:51"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:23.423] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JA","time":"04/11/2025, 23:56:51"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:23.423] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik JA","time":"04/11/2025, 23:56:51"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:23.562] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik J","time":"04/11/2025, 23:56:52"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:23.562] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik J","time":"04/11/2025, 23:56:52"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:23.986] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik Ja","time":"04/11/2025, 23:56:52"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:23.986] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik Ja","time":"04/11/2025, 23:56:52"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:24.137] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik Jai","time":"04/11/2025, 23:56:52"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:24.137] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik Jai","time":"04/11/2025, 23:56:52"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:24.329] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:52"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:24.329] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:52"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:24.462] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik Jain ","time":"04/11/2025, 23:56:52"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:24.462] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik Jain ","time":"04/11/2025, 23:56:52"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:24.662] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:53"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:24.662] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:53"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:25.530] Browser LOG     Sending with: {"data":{"email":"s","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:53"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:25.530] Browser LOG     Sending with: {"data":{"email":"s","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:53"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:25.530] Browser LOG     Sending with: {"data":{"email":"sh","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:53"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:25.530] Browser LOG     Sending with: {"data":{"email":"sh","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:53"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:25.530] Browser LOG     Sending with: {"data":{"email":"shi","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:54"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:25.530] Browser LOG     Sending with: {"data":{"email":"shi","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:54"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:25.644] Browser LOG     Sending with: {"data":{"email":"shiv","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:54"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:25.644] Browser LOG     Sending with: {"data":{"email":"shiv","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:54"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:26.950] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:55"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:26.950] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"","name":"Satvik Jain","time":"04/11/2025, 23:56:55"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:28.579] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"h","name":"Satvik Jain","time":"04/11/2025, 23:56:57"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:28.579] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"h","name":"Satvik Jain","time":"04/11/2025, 23:56:57"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:28.714] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"he","name":"Satvik Jain","time":"04/11/2025, 23:56:57"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:28.714] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"he","name":"Satvik Jain","time":"04/11/2025, 23:56:57"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:28.980] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hee","name":"Satvik Jain","time":"04/11/2025, 23:56:57"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:28.980] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hee","name":"Satvik Jain","time":"04/11/2025, 23:56:57"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:28.980] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heel","name":"Satvik Jain","time":"04/11/2025, 23:56:57"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:28.980] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heel","name":"Satvik Jain","time":"04/11/2025, 23:56:57"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:29.145] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heelo","name":"Satvik Jain","time":"04/11/2025, 23:56:57"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:29.145] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heelo","name":"Satvik Jain","time":"04/11/2025, 23:56:57"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:29.328] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heelo ","name":"Satvik Jain","time":"04/11/2025, 23:56:57"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:29.328] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heelo ","name":"Satvik Jain","time":"04/11/2025, 23:56:57"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:29.503] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heelo","name":"Satvik Jain","time":"04/11/2025, 23:56:58"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:29.503] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heelo","name":"Satvik Jain","time":"04/11/2025, 23:56:58"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:29.681] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heelo ","name":"Satvik Jain","time":"04/11/2025, 23:56:58"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:29.681] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heelo ","name":"Satvik Jain","time":"04/11/2025, 23:56:58"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:30.079] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heelo","name":"Satvik Jain","time":"04/11/2025, 23:56:58"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:30.079] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heelo","name":"Satvik Jain","time":"04/11/2025, 23:56:58"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:30.228] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heel","name":"Satvik Jain","time":"04/11/2025, 23:56:58"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:30.228] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"heel","name":"Satvik Jain","time":"04/11/2025, 23:56:58"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:30.362] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hee","name":"Satvik Jain","time":"04/11/2025, 23:56:58"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:30.362] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hee","name":"Satvik Jain","time":"04/11/2025, 23:56:58"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:30.484] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"he","name":"Satvik Jain","time":"04/11/2025, 23:56:59"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:30.484] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"he","name":"Satvik Jain","time":"04/11/2025, 23:56:59"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:30.978] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hel","name":"Satvik Jain","time":"04/11/2025, 23:56:59"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:30.978] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hel","name":"Satvik Jain","time":"04/11/2025, 23:56:59"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.108] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hell","name":"Satvik Jain","time":"04/11/2025, 23:56:59"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.108] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hell","name":"Satvik Jain","time":"04/11/2025, 23:56:59"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.245] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello","name":"Satvik Jain","time":"04/11/2025, 23:56:59"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.245] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello","name":"Satvik Jain","time":"04/11/2025, 23:56:59"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.428] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello ","name":"Satvik Jain","time":"04/11/2025, 23:56:59"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.428] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello ","name":"Satvik Jain","time":"04/11/2025, 23:56:59"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.762] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello t","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.762] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello t","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.762] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello th","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.762] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello th","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.762] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello thi","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.762] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello thi","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.878] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.878] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.995] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this ","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:31.995] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this ","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:32.178] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:32.179] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:32.345] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this ","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:32.345] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this ","name":"Satvik Jain","time":"04/11/2025, 23:57:00"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:32.524] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this i","name":"Satvik Jain","time":"04/11/2025, 23:57:01"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:32.524] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this i","name":"Satvik Jain","time":"04/11/2025, 23:57:01"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:32.728] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is","name":"Satvik Jain","time":"04/11/2025, 23:57:01"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:32.728] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is","name":"Satvik Jain","time":"04/11/2025, 23:57:01"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:32.728] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is ","name":"Satvik Jain","time":"04/11/2025, 23:57:01"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:32.728] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is ","name":"Satvik Jain","time":"04/11/2025, 23:57:01"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:32.895] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is","name":"Satvik Jain","time":"04/11/2025, 23:57:01"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:32.895] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is","name":"Satvik Jain","time":"04/11/2025, 23:57:01"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:33.079] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is ","name":"Satvik Jain","time":"04/11/2025, 23:57:01"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:33.079] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is ","name":"Satvik Jain","time":"04/11/2025, 23:57:01"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:33.362] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is S","name":"Satvik Jain","time":"04/11/2025, 23:57:01"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:33.362] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is S","name":"Satvik Jain","time":"04/11/2025, 23:57:01"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:33.531] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Sa","name":"Satvik Jain","time":"04/11/2025, 23:57:02"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:33.531] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Sa","name":"Satvik Jain","time":"04/11/2025, 23:57:02"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:33.695] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Sat","name":"Satvik Jain","time":"04/11/2025, 23:57:02"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:33.695] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Sat","name":"Satvik Jain","time":"04/11/2025, 23:57:02"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:33.970] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Satv","name":"Satvik Jain","time":"04/11/2025, 23:57:02"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:33.970] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Satv","name":"Satvik Jain","time":"04/11/2025, 23:57:02"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:33.971] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Satvi","name":"Satvik Jain","time":"04/11/2025, 23:57:02"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:33.971] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Satvi","name":"Satvik Jain","time":"04/11/2025, 23:57:02"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:34.158] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Satvik","name":"Satvik Jain","time":"04/11/2025, 23:57:02"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:34.158] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Satvik","name":"Satvik Jain","time":"04/11/2025, 23:57:02"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:34.308] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Satvik ","name":"Satvik Jain","time":"04/11/2025, 23:57:02"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:34.308] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Satvik ","name":"Satvik Jain","time":"04/11/2025, 23:57:02"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:34.495] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Satvik","name":"Satvik Jain","time":"04/11/2025, 23:57:03"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:34.496] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Satvik","name":"Satvik Jain","time":"04/11/2025, 23:57:03"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:36.422] Browser LOG     Sending email via REST API with payload: {"service_id":"service_ex6tjr6","template_id":"template_mjcmd3i","template_params":{"email":"shivarora08032002@gmail.com","message":"hello this is Satvik","name":"Satvik Jain","time":"04/11/2025, 23:57:04"},"user_id":"uOXAwfjAXbobaHA7F"}
+[00:01:36.422] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Satvik","name":"Satvik Jain","time":"04/11/2025, 23:57:04"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:36.422] Browser LOG     Sending with: {"data":{"email":"shivarora08032002@gmail.com","message":"hello this is Satvik","name":"Satvik Jain","time":"04/11/2025, 23:57:04"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:39.719] Browser LOG     ✅ Email sent successfully
+[00:01:39.719] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"","time":"04/11/2025, 23:57:08"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}
+[00:01:39.719] Browser LOG     Sending with: {"data":{"email":"","message":"","name":"","time":"04/11/2025, 23:57:08"},"publicKey":"uOXAwfjAXbobaHA7F","service":"service_ex6tjr6","template":"template_mjcmd3i"}

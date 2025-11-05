@@ -1,0 +1,27 @@
+{
+  "[project]/components/sections/contact.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/sections/contact.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/_5c516f8f._.js",
+      "static/chunks/components_sections_contact_tsx_777273f4._.js"
+    ]
+  },
+  "[project]/components/sections/experiences.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/sections/experiences.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/_f4cf48e8._.js",
+      "static/chunks/components_sections_experiences_tsx_777273f4._.js"
+    ]
+  },
+  "[project]/components/sections/skills.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/sections/skills.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_@mui_system_esm_93f5044a._.js",
+      "static/chunks/node_modules_react-icons_bs_index_mjs_8a44a60a._.js",
+      "static/chunks/node_modules_react-icons_md_index_mjs_65e576c2._.js",
+      "static/chunks/node_modules_4458a238._.js",
+      "static/chunks/components_sections_skills_tsx_d90cc372._.js",
+      "static/chunks/components_sections_skills_tsx_777273f4._.js"
+    ]
+  }
+}
