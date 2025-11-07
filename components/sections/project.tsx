@@ -39,7 +39,7 @@ const projects: Project[] = [
     textColor: "text-green-100",
     details: "This system utilizes deep learning and real-time market data to forecast stock price movements and identify profitable trading patterns. It incorporates sentiment analysis from financial news and social media to enhance prediction accuracy and deliver actionable trading insights.",
     technologies: ["Python", "Streamlit", "tensorflow", "Transformer", "Excel"],
-    github: "https://github.com/yourusername/vr-fitness"
+    github: "https://github.com/ShivArora-Sykkuno/Data-Science-Projects/tree/main/Stock%20Alert%20Bot"
   },
   {
     id: 3,
